@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "coached-dev": {
+      "hosting": {
+        "coached": [
+          "coached-dev"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "coached-dev"
+  }
+}
